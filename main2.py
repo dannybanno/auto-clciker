@@ -9,6 +9,8 @@ import sys
 from colorama import Fore, Back, Style
 import webbrowser
 import reloadex
+import random
+
 
 
 url = "https://github.com/dannybanno"
